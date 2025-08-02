@@ -1,0 +1,17 @@
+
+[
+    {
+        "path": "posts/pages/example-post.html",
+        "title": "Example Post",
+        "date": "08-02-2025",
+        "excerpt": "This is an example post to demonstrate the structure of a blog post in Dissimilands.",
+        "category": "systems"
+    },
+    {
+        "path": "posts/pages/example-post2.html",
+        "title": "Example Post 2",
+        "date": "08-03-2025",
+        "excerpt": "This is an example post to demonstrate the structure of a blog post in Dissimilands.",
+        "category": "systems"
+    }
+]
