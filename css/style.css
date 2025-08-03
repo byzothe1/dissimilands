@@ -39,6 +39,12 @@ h2 {
   color: rgb(78, 35, 23);
 }
 
+h3 {
+  text-decoration: none;
+  color: rgb(106, 41, 22);
+}
+
+
 p {
     color:#44211a;
     font-family: 'Georgia', serif;
@@ -108,4 +114,13 @@ nav {
     padding: 1rem 1rem;
     border: 2px solid;
     border-color: #f0ac9a;
+}
+
+.content-list {
+    color: rgb(83, 47, 35);
+    list-style-type:circle;
+    text-align: left;
+    padding-left: 2rem;
+    margin: 1rem auto;
+    max-width: 30vw; /* Adjust as needed */
 }
